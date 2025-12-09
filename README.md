@@ -1,7 +1,6 @@
-# Web Scraping – Top 10 Diretores por Bilheteria
+# Web Scraping Wikipédia – Top 10 Diretores por Bilheteria
 
-Este projeto realiza **coleta, limpeza e análise de dados de bilheteria** de filmes a partir do site Wikipedia com a lista das maiores bilheterias de todos os tempos.  
-O objetivo é gerar insights e visualizar os **10 diretores com maior bilheteria acumulada**.
+Este projeto realiza **coleta, limpeza e análise de dados de bilheteria** de filmes a partir do site Wikipedia com a lista das maiores bilheterias de todos os tempos. O objetivo é gerar insights e visualizar os **10 diretores com maior bilheteria acumulada**.
 
 ---
 
